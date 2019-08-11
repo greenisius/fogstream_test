@@ -1,3 +1,4 @@
+Docker контейнер на Dockerhub под именем "greenisius/mytestapp:final"
 Тестовый сервер внутри приложения слушает порт 7777. Следует запускать:
   
   docker run fogstream/mytestapp:final -p 8000:7777
